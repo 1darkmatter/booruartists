@@ -1,0 +1,5 @@
+follower_(yagisaka_seto)
+knight_leader_(yagisaka_seto)
+lavolpe_(yagisaka_seto)
+lord_(yagisaka_seto)
+squire_(yagisaka_seto)

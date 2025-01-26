@@ -1,0 +1,4 @@
+green_(gunstar_heroes)
+orange_(gunstar_heroes)
+pink_(gunstar_heroes)
+yellow_(gunstar_heroes)

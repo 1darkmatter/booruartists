@@ -1,0 +1,1 @@
+blade_(puppet_master)

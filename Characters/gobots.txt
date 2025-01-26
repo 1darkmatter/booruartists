@@ -1,0 +1,4 @@
+bad_boy_(gobots)
+bug_bite_(gobots)
+pathfinder_(gobots)
+scooter_(gobots)

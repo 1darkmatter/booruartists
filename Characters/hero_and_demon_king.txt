@@ -1,0 +1,3 @@
+demon_general_(hero_and_demon_king)
+demon_king_(hero_and_demon_king)
+hero_(hero_and_demon_king)

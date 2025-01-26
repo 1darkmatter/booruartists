@@ -1,0 +1,7 @@
+alice_(game_of_dice)
+doria_(game_of_dice)
+heidi_(game_of_dice)
+isabelle_(game_of_dice)
+lucy_(game_of_dice)
+stella_(game_of_dice)
+yuki_(game_of_dice)

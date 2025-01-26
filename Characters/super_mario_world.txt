@@ -1,0 +1,4 @@
+dolphin_(super_mario_world)
+eerie_(super_mario_world)
+rex_(super_mario_world)
+triangular_block_(super_mario_world)

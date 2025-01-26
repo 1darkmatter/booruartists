@@ -1,0 +1,4 @@
+avlora_(triangle_strategy)
+decimal_(triangle_strategy)
+travis_(triangle_strategy)
+trish_(triangle_strategy)

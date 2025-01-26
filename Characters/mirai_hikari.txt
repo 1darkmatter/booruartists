@@ -1,0 +1,2 @@
+hapi_(mirai_hikari)
+mirai_(mirai_hikari)

@@ -1,0 +1,5 @@
+flying_castle_(flying_red_barrel)
+lone_rider_(flying_red_barrel)
+malt_(flying_red_barrel)
+merchant_(flying_red_barrel)
+sherry_(flying_red_barrel)

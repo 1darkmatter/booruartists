@@ -1,0 +1,6 @@
+blue_shirt_brother_(pepper0)
+father_(pepper0)
+mother_(pepper0)
+sister_(pepper0)
+white_shirt_brother_(pepper0)
+yellow_shirt_brother_(pepper0)

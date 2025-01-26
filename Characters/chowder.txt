@@ -1,0 +1,7 @@
+ceviche_(chowder)
+gorgonzola_(chowder)
+kimchi_(chowder)
+mung_daal_(chowder)
+panini_(chowder)
+schnitzel_(chowder)
+truffels_(chowder)

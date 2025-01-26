@@ -1,0 +1,3 @@
+chai_(shenmue)
+joy_(shenmue)
+shenhua_(shenmue)

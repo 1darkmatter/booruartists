@@ -1,0 +1,7 @@
+doll_(squid_game)
+manager_(squid_game)
+panther_mask_vip_(squid_game)
+robot_(squid_game)
+soldier_(squid_game)
+the_salesman_(squid_game)
+worker_(squid_game)

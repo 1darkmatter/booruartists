@@ -1,0 +1,5 @@
+bishop_(phi_brain)
+freecell_(phi_brain)
+maze_(phi_brain)
+melancholy_(phi_brain)
+mizerka_(phi_brain)

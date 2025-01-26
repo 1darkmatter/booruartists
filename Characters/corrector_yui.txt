@@ -1,0 +1,4 @@
+control_(corrector_yui)
+i.r._(corrector_yui)
+shinozaki_ai_(corrector_yui)
+synchro_(corrector_yui)

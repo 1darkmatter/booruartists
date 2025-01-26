@@ -1,0 +1,3 @@
+phalanx_(destroid)
+spartan_(destroid)
+tomahawk_(destroid)

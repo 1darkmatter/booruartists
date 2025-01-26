@@ -1,0 +1,3 @@
+bullseye_(blue_gender)
+grappler_(blue_gender)
+sleeper_(blue_gender)

@@ -1,0 +1,4 @@
+artist_(grancrest)
+garnet_(grancrest)
+lord_(grancrest)
+mage_(grancrest)

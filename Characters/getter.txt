@@ -1,0 +1,3 @@
+shin_bear_(getter)
+shin_eagle_(getter)
+shin_jaguar_(getter)

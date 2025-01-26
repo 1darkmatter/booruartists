@@ -1,0 +1,7 @@
+bass_(violinist_of_hameln)
+clarinet_(violinist_of_hameln)
+cornet_(violinist_of_hameln)
+flute_(violinist_of_hameln)
+lute_(violinist_of_hameln)
+oboe_(violinist_of_hameln)
+ocarina_(violinist_of_hameln)

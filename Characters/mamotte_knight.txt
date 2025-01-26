@@ -1,0 +1,6 @@
+amazon_(mamotte_knight)
+archer_(mamotte_knight)
+fighter_(mamotte_knight)
+mage_(mamotte_knight)
+ninja_(mamotte_knight)
+old_guy_(mamotte_knight)

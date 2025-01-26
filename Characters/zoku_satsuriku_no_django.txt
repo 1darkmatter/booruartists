@@ -1,0 +1,3 @@
+bodaro_(zoku_satsuriku_no_django)
+sancho_(zoku_satsuriku_no_django)
+wells_(zoku_satsuriku_no_django)

@@ -1,0 +1,8 @@
+alice?_(are_you_alice?)
+cheshire_cat_(are_you_alice?)
+dodo_(are_you_alice?)
+mad_hatter_(are_you_alice?)
+march_hare_(are_you_alice?)
+marianne_(are_you_alice?)
+queen_of_hearts_(are_you_alice?)
+white_rabbit_(are_you_alice?)

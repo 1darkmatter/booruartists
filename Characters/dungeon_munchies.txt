@@ -1,0 +1,3 @@
+grill_(dungeon_munchies)
+simmer_(dungeon_munchies)
+zombie_(dungeon_munchies)

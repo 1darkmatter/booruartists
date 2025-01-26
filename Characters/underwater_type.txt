@@ -1,0 +1,5 @@
+god_gundam_(underwater_type)
+gundam_airmaster_(underwater_type)
+gundam_double_x_(underwater_type)
+master_gundam_(underwater_type)
+rx-78-2_(underwater_type)

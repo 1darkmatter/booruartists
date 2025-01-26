@@ -1,0 +1,5 @@
+black_(ikenie_no_yoru)
+blue_(ikenie_no_yoru)
+pink_(ikenie_no_yoru)
+red_(ikenie_no_yoru)
+yellow_(ikenie_no_yoru)

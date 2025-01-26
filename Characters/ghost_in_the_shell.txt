@@ -1,0 +1,4 @@
+aoi_(ghost_in_the_shell)
+boma_(ghost_in_the_shell)
+operator_(ghost_in_the_shell)
+saitou_(ghost_in_the_shell)

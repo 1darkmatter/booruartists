@@ -1,0 +1,3 @@
+iroha_(instant_bullet)
+sera_(instant_bullet)
+toiro_(instant_bullet)

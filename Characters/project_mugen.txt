@@ -1,0 +1,3 @@
+bansy_(project_mugen)
+dila_(project_mugen)
+taffy_(project_mugen)

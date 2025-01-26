@@ -1,0 +1,5 @@
+everest_(lancer_rpg)
+genghis_(lancer_rpg)
+manticore_(lancer_rpg)
+monarch_(lancer_rpg)
+tortuga_(lancer_rpg)

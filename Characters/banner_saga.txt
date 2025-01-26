@@ -1,0 +1,8 @@
+alette_(banner_saga)
+canary_(banner_saga)
+egil_(banner_saga)
+mogr_(banner_saga)
+nid_(banner_saga)
+rook_(banner_saga)
+scathatch_(banner_saga)
+ubin_(banner_saga)

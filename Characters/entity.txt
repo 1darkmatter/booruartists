@@ -1,0 +1,3 @@
+death_(entity)
+majora_(entity)
+mysteries_(entity)

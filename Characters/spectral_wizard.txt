@@ -1,0 +1,2 @@
+chaos_wizard_(spectral_wizard)
+spectral_wizard_(spectral_wizard)

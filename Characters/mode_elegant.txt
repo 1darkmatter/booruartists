@@ -1,0 +1,4 @@
+cure_flora_(mode_elegant)
+cure_mermaid_(mode_elegant)
+cure_scarlet_(mode_elegant)
+cure_twinkle_(mode_elegant)

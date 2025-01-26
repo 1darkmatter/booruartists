@@ -1,0 +1,5 @@
+captain_(risk_of_rain)
+commando_(risk_of_rain)
+huntress_(risk_of_rain)
+loader_(risk_of_rain)
+rex_(risk_of_rain)

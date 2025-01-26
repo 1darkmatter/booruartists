@@ -1,0 +1,7 @@
+astral_(starsector)
+conquest_(starsector)
+doom_(starsector)
+legion_(starsector)
+marine_(starsector)
+onslaught_(starsector)
+paragon_(starsector)

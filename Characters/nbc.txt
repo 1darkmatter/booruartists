@@ -1,0 +1,5 @@
+barrel_(nbc)
+lock_(nbc)
+sally_(nbc)
+shock_(nbc)
+zero_(nbc)

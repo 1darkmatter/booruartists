@@ -1,0 +1,4 @@
+frio_(ristorante_paradiso)
+nicoletta_(ristorante_paradiso)
+theo_(ristorante_paradiso)
+vito_(ristorante_paradiso)

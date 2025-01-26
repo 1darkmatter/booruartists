@@ -1,0 +1,6 @@
+dopey_(snow_white)
+evil_queen_(snow_white)
+grumpy_(snow_white)
+magic_mirror_(snow_white)
+queen_(snow_white)
+witch_(snow_white)

@@ -1,0 +1,6 @@
+the_artisan_(gnr)
+the_bird_(gnr)
+the_evil_queen_(gnr)
+the_girl_(gnr)
+the_queen_(gnr)
+the_robot_(gnr)

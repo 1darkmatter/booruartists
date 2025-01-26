@@ -1,0 +1,4 @@
+higuchi_(trigger)
+muzzle_(trigger)
+secretary_(trigger)
+spring_(trigger)

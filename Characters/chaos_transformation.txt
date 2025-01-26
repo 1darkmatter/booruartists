@@ -1,0 +1,7 @@
+black_heart_(chaos_transformation)
+black_sister_(chaos_transformation)
+green_heart_(chaos_transformation)
+purple_sister_(chaos_transformation)
+white_heart_(chaos_transformation)
+white_sister_ram_(chaos_transformation)
+white_sister_rom_(chaos_transformation)

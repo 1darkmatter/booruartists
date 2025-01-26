@@ -1,0 +1,4 @@
+foxtail_(re_monster)
+kanami_(re_monster)
+sei_(re_monster)
+violetta_(re_monster)

@@ -1,0 +1,3 @@
+emul_(shangri-la_frontier)
+saiga_rei_(shangri-la_frontier)
+wimp_(shangri-la_frontier)

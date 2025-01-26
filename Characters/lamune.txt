@@ -1,0 +1,6 @@
+cacao_(lamune)
+cello_(lamune)
+drum_(lamune)
+parfait_(lamune)
+pq_(lamune)
+trumpet_(lamune)

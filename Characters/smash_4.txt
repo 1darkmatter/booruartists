@@ -1,0 +1,3 @@
+mii_brawler_(smash_4)
+mii_gunner_(smash_4)
+mii_swordfighter_(smash_4)

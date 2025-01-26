@@ -1,0 +1,5 @@
+barrage_(exoprimal)
+deadeye_(exoprimal)
+ivy_(exoprimal)
+roadblock_(exoprimal)
+vigilant_(exoprimal)

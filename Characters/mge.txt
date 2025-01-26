@@ -1,0 +1,7 @@
+apsara_(mge)
+dhampir_(mge)
+humonculus_(mge)
+shoggoth_(mge)
+succubus_wilmarina_(mge)
+vampire_(mge)
+wilmarina_noscrim_(mge)

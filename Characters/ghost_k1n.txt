@@ -1,0 +1,3 @@
+arrow_(ghost_k1n)
+speed_limit_(ghost_k1n)
+traffic_light_(ghost_k1n)

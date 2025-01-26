@@ -1,0 +1,3 @@
+black_pixel_(nick)
+blue_pixel_(nick)
+tanya_(nick)

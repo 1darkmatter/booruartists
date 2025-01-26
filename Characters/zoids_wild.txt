@@ -1,0 +1,6 @@
+arashi_(zoids_wild)
+bacon_(zoids_wild)
+dyna_(zoids_wild)
+penne_(zoids_wild)
+raptor_(zoids_wild)
+snare_(zoids_wild)

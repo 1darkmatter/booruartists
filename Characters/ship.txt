@@ -1,0 +1,6 @@
+ikaruga_(ship)
+prometheus_(ship)
+ragnarok_(ship)
+shirasagi_(ship)
+silvergun_(ship)
+submarine_707_(ship)

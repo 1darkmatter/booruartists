@@ -1,0 +1,5 @@
+fighter_(dokapon_the_world)
+free_(dokapon_the_world)
+priest_(dokapon_the_world)
+red_burikin_(dokapon_the_world)
+thief_(dokapon_the_world)

@@ -1,0 +1,4 @@
+li_shuwen_(koha-ace)
+oda_nobunaga_(koha-ace)
+okita_souji_(koha-ace)
+toyotomi_hideyoshi_(koha-ace)

@@ -1,0 +1,5 @@
+cinderace_(hero)
+greninja_(hero)
+palafin_(hero)
+zacian_(hero)
+zamazenta_(hero)

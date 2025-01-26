@@ -1,0 +1,6 @@
+alfred_(fatal_fury)
+alice_(fatal_fury)
+anton_(fatal_fury)
+hopper_(fatal_fury)
+ripper_(fatal_fury)
+white_(fatal_fury)

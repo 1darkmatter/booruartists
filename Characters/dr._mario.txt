@@ -1,0 +1,4 @@
+chill_(dr._mario)
+fever_(dr._mario)
+virus_(dr._mario)
+weird_(dr._mario)

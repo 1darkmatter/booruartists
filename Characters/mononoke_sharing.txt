@@ -1,0 +1,3 @@
+momi_(mononoke_sharing)
+yata_(mononoke_sharing)
+youko_(mononoke_sharing)

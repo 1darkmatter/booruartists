@@ -1,0 +1,6 @@
+curon_(double_role!)
+iris_(double_role!)
+lobelia_(double_role!)
+rina_(double_role!)
+riza_(double_role!)
+yamada_(double_role!)

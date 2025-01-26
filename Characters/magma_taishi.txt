@@ -1,0 +1,2 @@
+gam_(magma_taishi)
+mol_(magma_taishi)

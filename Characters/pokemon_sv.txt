@@ -1,0 +1,2 @@
+female_protagonist_(pokemon_sv)
+male_protagonist_(pokemon_sv)

@@ -1,0 +1,4 @@
+mage_(fat_princess)
+princess_(fat_princess)
+warrior_(fat_princess)
+worker_(fat_princess)

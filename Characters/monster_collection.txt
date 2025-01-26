@@ -1,0 +1,4 @@
+dragonhead_(monster_collection)
+fenrir_(monster_collection)
+media_(monster_collection)
+vepar_(monster_collection)

@@ -1,0 +1,8 @@
+conan_(mirai_shounen_conan)
+dyce_(mirai_shounen_conan)
+jimsy_(mirai_shounen_conan)
+lana_(mirai_shounen_conan)
+lepka_(mirai_shounen_conan)
+monsley_(mirai_shounen_conan)
+patch_(mirai_shounen_conan)
+tiana_(mirai_shounen_conan)

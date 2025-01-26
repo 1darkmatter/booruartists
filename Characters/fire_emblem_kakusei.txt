@@ -1,0 +1,8 @@
+avatar_(fire_emblem:_kakusei)
+female_my_unit_(fire_emblem:_kakusei)
+male_my_unit_(fire_emblem:_kakusei)
+marth_(fire_emblem:_kakusei)
+minerva_(fire_emblem:_kakusei)
+minerva_(fire_emblem_kakusei)
+my_unit_(fire_emblem:_kakusei)
+selena_(fire_emblem:_kakusei)

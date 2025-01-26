@@ -1,0 +1,6 @@
+blinky_(pac-man)
+clyde_(pac-man)
+inky_(pac-man)
+orson_(pac-man)
+pinky_(pac-man)
+sue_(pac-man)

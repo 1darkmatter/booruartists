@@ -1,0 +1,8 @@
+bass_(megaman)
+ciel_(megaman)
+dingo_(megaman)
+falzar_(megaman)
+forte_(megaman)
+gregar_(megaman)
+treble_(megaman)
+zero_(megaman)

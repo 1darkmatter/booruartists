@@ -1,0 +1,1 @@
+purse_(backpack_hero)

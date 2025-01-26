@@ -1,0 +1,2 @@
+mother_(pokemon_rgby)
+red_(pokemon_rgby)

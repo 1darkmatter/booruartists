@@ -1,0 +1,6 @@
+doctor_watson_(meitantei_holmes)
+polly_(meitantei_holmes)
+professor_moriarty_(meitantei_holmes)
+sherlock_holmes_(meitantei_holmes)
+smiley_(meitantei_holmes)
+todd_(meitantei_holmes)

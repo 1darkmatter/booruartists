@@ -1,0 +1,5 @@
+alucard_(hellsing)
+baskerville_(hellsing)
+captain_(hellsing)
+doctor_(hellsing)
+major_(hellsing)

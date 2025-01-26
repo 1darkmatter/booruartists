@@ -1,0 +1,4 @@
+black_rock_shooter_(char)
+diablo_(char)
+lemono_lemone_(char)
+truth_(char)

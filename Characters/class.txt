@@ -1,0 +1,3 @@
+berserker_(class)
+lancer_(class)
+pokemon_ranger_(class)

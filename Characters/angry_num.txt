@@ -1,0 +1,6 @@
+dorothy_(angry_num)
+feena_(angry_num)
+helena_(angry_num)
+maria_(angry_num)
+rose_(angry_num)
+seren_(angry_num)

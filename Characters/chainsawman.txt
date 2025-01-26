@@ -1,0 +1,5 @@
+flamethrower_devil_(chainsawman)
+katana_man_(chainsawman)
+longsword_devil_(chainsawman)
+spear_devil_(chainsawman)
+whip_devil_(chainsawman)

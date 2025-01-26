@@ -1,0 +1,5 @@
+fig_(happy_elements)
+ruby_(happy_elements)
+sapphire_(happy_elements)
+sly_(happy_elements)
+tabemono_(happy_elements)

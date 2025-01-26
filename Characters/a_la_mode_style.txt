@@ -1,0 +1,6 @@
+cure_chocolat_(a_la_mode_style)
+cure_custard_(a_la_mode_style)
+cure_gelato_(a_la_mode_style)
+cure_macaron_(a_la_mode_style)
+cure_parfait_(a_la_mode_style)
+cure_whip_(a_la_mode_style)

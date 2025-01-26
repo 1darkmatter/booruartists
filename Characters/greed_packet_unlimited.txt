@@ -1,0 +1,2 @@
+casio_(greed_packet_unlimited)
+sony_ericsson_(greed_packet_unlimited)

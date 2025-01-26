@@ -1,0 +1,2 @@
+cassandra_(cass_sakyubasu)
+cassandra_asmolith_(cass_sakyubasu)

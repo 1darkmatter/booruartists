@@ -1,0 +1,3 @@
+coffee_(negsus)
+thai_(negsus)
+vanilla_(negsus)

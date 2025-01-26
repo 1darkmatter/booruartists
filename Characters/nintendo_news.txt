@@ -1,0 +1,2 @@
+cat_(nintendo_news)
+panda_(nintendo_news)

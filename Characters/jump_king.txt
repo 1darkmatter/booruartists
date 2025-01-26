@@ -1,0 +1,3 @@
+babe_(jump_king)
+ghost_babe_(jump_king)
+new_babe_(jump_king)

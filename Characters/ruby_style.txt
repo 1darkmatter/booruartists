@@ -1,0 +1,3 @@
+cure_magical_(ruby_style)
+cure_miracle_(ruby_style)
+cure_mofurun_(ruby_style)

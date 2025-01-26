@@ -1,0 +1,2 @@
+bd_(bard-bot)
+juno_(bard-bot)

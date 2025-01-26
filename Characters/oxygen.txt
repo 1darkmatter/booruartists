@@ -1,0 +1,4 @@
+53cm_hull-mount_(oxygen)_torpedoes
+61cm_quadruple_(oxygen)_torpedo_mount
+61cm_quintuple_(oxygen)_torpedo_mount
+61cm_triple_(oxygen)_torpedo_mount

@@ -1,0 +1,2 @@
+kappa_(kappa_no_sanpei)
+sanpei_(kappa_no_sanpei)

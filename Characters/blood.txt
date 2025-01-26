@@ -1,0 +1,6 @@
+axe_zombie_(blood)
+caleb_(blood)
+cultist_(blood)
+phantasm_(blood)
+stone_gargoyle_(blood)
+tchernobog_(blood)

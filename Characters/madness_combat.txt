@@ -1,0 +1,5 @@
+deimos_(madness_combat)
+doc_(madness_combat)
+grunt_(madness_combat)
+sanford_(madness_combat)
+the_sheriff_(madness_combat)

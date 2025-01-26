@@ -1,0 +1,6 @@
+ichinose_sango_(helvetica_std)
+olina_volka_(helvetica_std)
+otsuka_neru_(helvetica_std)
+shiinose_sango_(helvetica_std)
+shinose_sango_(helvetica_std)
+violet_clarke_(helvetica_std)

@@ -1,0 +1,2 @@
+friend_(receptacle)
+sister_(receptacle)

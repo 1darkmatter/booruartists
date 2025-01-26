@@ -1,0 +1,2 @@
+male_trainer_(wii_fit)
+trainer_(wii_fit)

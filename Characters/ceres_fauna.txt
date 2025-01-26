@@ -1,0 +1,4 @@
+clover_(ceres_fauna)
+nemu_(ceres_fauna)
+sapling_(ceres_fauna)
+snail_(ceres_fauna)

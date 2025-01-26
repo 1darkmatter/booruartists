@@ -1,0 +1,4 @@
+balrog_(cave_story)
+misery_(cave_story)
+sue_(cave_story)
+toroko_(cave_story)

@@ -1,0 +1,4 @@
+brain_(kamen_rider_drive)
+chase_(kamen_rider_drive)
+heart_(kamen_rider_drive)
+medic_(kamen_rider_drive)

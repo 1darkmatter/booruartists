@@ -1,0 +1,4 @@
+cure_earth_(partner_form)
+cure_fontaine_(partner_form)
+cure_grace_(partner_form)
+cure_sparkle_(partner_form)

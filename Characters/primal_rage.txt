@@ -1,0 +1,5 @@
+blizzard_(primal_rage)
+chaos_(primal_rage)
+diablo_(primal_rage)
+sauron_(primal_rage)
+talon_(primal_rage)

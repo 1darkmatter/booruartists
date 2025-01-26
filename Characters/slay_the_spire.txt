@@ -1,0 +1,8 @@
+chosen_(slay_the_spire)
+cultist_(slay_the_spire)
+deca_(slay_the_spire)
+donu_(slay_the_spire)
+the_champ_(slay_the_spire)
+the_collector_(slay_the_spire)
+the_guardian_(slay_the_spire)
+the_watcher_(slay_the_spire)

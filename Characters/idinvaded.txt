@@ -1,0 +1,7 @@
+anaido_(id:invaded)
+fukuda_(id:invaded)
+hondoumachi_(id:invaded)
+kaeru_(id:invaded)
+matsuoka_(id:invaded)
+sakaido_(id:invaded)
+tougou_(id:invaded)

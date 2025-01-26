@@ -1,0 +1,3 @@
+columbo_(bust_a_move)
+heat_(bust_a_move)
+shorty_(bust_a_move)

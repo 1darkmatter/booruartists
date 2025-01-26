@@ -1,0 +1,7 @@
+baroness_(pokemon_xy)
+female_protagonist_(pokemon_xy)
+lily_(pokemon_xy)
+male_protagonist_(pokemon_xy)
+ninfia_(pokemon_xy)
+x_legendary_(pokemon_xy)
+y_legendary_(pokemon_xy)

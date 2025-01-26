@@ -1,0 +1,3 @@
+chief_(dominion)
+innkeeper_(dominion)
+swindler_(dominion)

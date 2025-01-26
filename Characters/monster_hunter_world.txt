@@ -1,0 +1,4 @@
+admiral_(monster_hunter_world)
+field_team_leader_(monster_hunter_world)
+handler_(monster_hunter_world)
+third_fleet_master_(monster_hunter_world)

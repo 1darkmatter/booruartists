@@ -1,0 +1,3 @@
+baratus_(hexen)
+daedolon_(hexen)
+parias_(hexen)

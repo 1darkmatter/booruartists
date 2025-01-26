@@ -1,0 +1,5 @@
+cure_amour_(cheerful_style)
+cure_ange_(cheerful_style)
+cure_etoile_(cheerful_style)
+cure_macherie_(cheerful_style)
+cure_yell_(cheerful_style)

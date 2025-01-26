@@ -1,0 +1,5 @@
+blitz_(aniwars)
+hellhound_(aniwars)
+hydra_(aniwars)
+nova_(aniwars)
+shopkeeper_(aniwars)

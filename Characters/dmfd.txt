@@ -1,0 +1,4 @@
+empress_(dmfd)
+shinobi_(dmfd)
+warrior_(dmfd)
+witch_(dmfd)

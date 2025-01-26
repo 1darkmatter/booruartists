@@ -1,0 +1,3 @@
+kitakami_(guardian_project)
+ooi_(guardian_project)
+shigure_(guardian_project)

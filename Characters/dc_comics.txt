@@ -1,0 +1,5 @@
+dolphin_(dc_comics)
+fire_(dc_comics)
+godiva_(dc_comics)
+ice_(dc_comics)
+star_sapphire_(dc_comics)

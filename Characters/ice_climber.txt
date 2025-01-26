@@ -1,0 +1,3 @@
+condor_(ice_climber)
+nana_(ice_climber)
+popo_(ice_climber)

@@ -1,0 +1,8 @@
+anakim_(lineage_2)
+avatar_(lineage_2)
+dark_elf_(lineage_2)
+dwarf_(lineage_2)
+elf_(lineage_2)
+human_(lineage_2)
+lilith_(lineage_2)
+orc_(lineage_2)

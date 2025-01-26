@@ -1,0 +1,8 @@
+archer_(fate/samurai_remnant)
+assassin_(fate/samurai_remnant)
+berserker_(fate/samurai_remnant)
+caster_(fate/samurai_remnant)
+rider_(fate/samurai_remnant)
+rogue_berserker_(fate/samurai_remnant)
+rogue_saber_(fate/samurai_remnant)
+saber_(fate/samurai_remnant)

@@ -1,0 +1,4 @@
+female_protagonist_(pokemon_lgpe)
+male_protagonist_(pokemon_lgpe)
+mother_(pokemon_lgpe)
+rival_(pokemon_lgpe)

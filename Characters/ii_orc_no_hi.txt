@@ -1,0 +1,8 @@
+dark_elf_(ii_orc_no_hi)
+daughter_(ii_orc_no_hi)
+demon_king_(ii_orc_no_hi)
+elf_(ii_orc_no_hi)
+eshido_(ii_orc_no_hi)
+hero_(ii_orc_no_hi)
+orc_(ii_orc_no_hi)
+wizard_(ii_orc_no_hi)

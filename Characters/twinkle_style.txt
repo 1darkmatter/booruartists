@@ -1,0 +1,5 @@
+cure_cosmo_(twinkle_style)
+cure_milky_(twinkle_style)
+cure_selene_(twinkle_style)
+cure_soleil_(twinkle_style)
+cure_star_(twinkle_style)

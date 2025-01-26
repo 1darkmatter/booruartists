@@ -1,0 +1,5 @@
+a.o_(virtual_hertz)
+e.que_(virtual_hertz)
+gumi_(virtual_hertz)
+nina_(virtual_hertz)
+shune_(virtual_hertz)

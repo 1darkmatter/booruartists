@@ -1,0 +1,3 @@
+artisan_(eclaire_of_the_day)
+manager_(eclaire_of_the_day)
+prep_(eclaire_of_the_day)

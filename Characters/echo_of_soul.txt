@@ -1,0 +1,5 @@
+archer_(echo_of_soul)
+guardian_(echo_of_soul)
+rogue_(echo_of_soul)
+sorceress_(echo_of_soul)
+warrior_(echo_of_soul)

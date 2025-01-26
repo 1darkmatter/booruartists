@@ -1,0 +1,4 @@
+candela_(pokemon_go)
+female_protagonist_(pokemon_go)
+male_protagonist_(pokemon_go)
+spark_(pokemon_go)

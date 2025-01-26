@@ -1,0 +1,2 @@
+open_chan_(open_chan)
+secret_chan_(open_chan)

@@ -1,0 +1,6 @@
+angel_(mf)
+apollo_(mf)
+golem_(mf)
+horn_(mf)
+naga_(mf)
+orion_(mf)

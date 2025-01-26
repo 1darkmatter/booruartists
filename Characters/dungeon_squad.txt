@@ -1,0 +1,8 @@
+chimera_(dungeon_squad)
+dark_pegasus_(dungeon_squad)
+diablo_(dungeon_squad)
+jormungand_(dungeon_squad)
+kraken_(dungeon_squad)
+medusa_(dungeon_squad)
+stheno_(dungeon_squad)
+titan_(dungeon_squad)

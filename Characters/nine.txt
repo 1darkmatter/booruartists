@@ -1,0 +1,5 @@
+dark_(nine)
+earth_(nine)
+fire_(nine)
+light_(nine)
+water_(nine)

@@ -1,0 +1,2 @@
+merchant_(god_eater_burst)
+player_(god_eater_burst)

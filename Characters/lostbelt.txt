@@ -1,0 +1,7 @@
+archer_(lostbelt)
+assassin_(lostbelt)
+berserker_(lostbelt)
+caster_(lostbelt)
+lancer_(lostbelt)
+rider_(lostbelt)
+saber_(lostbelt)

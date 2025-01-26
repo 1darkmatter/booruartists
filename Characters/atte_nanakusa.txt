@@ -1,0 +1,8 @@
+bomb_suicider_(atte_nanakusa)
+breaker_(atte_nanakusa)
+defender_(atte_nanakusa)
+engineer_(atte_nanakusa)
+medic_(atte_nanakusa)
+scout_(atte_nanakusa)
+tranquilizer_(atte_nanakusa)
+tranquillizer_(atte_nanakusa)

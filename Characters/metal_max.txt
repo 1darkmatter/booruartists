@@ -1,0 +1,7 @@
+hunter_(metal_max)
+karin_(metal_max)
+maria_(metal_max)
+mechanic_(metal_max)
+nurse_(metal_max)
+soldier_(metal_max)
+wrestler_(metal_max)

@@ -1,0 +1,2 @@
+gundam_double_x_(sky_type)
+gundam_x_(sky_type)

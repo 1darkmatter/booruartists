@@ -1,0 +1,2 @@
+gundam_double_x_(land_type)
+gundam_x_(land_type)

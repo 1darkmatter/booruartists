@@ -1,0 +1,4 @@
+cure_flora_(grand_princess)
+cure_mermaid_(grand_princess)
+cure_scarlet_(grand_princess)
+cure_twinkle_(grand_princess)

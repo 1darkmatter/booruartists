@@ -1,0 +1,6 @@
+amanda_(sd1)
+dark_lord_(sd1)
+hero_(sd1)
+heroine_(sd1)
+marshall_(sd1)
+shadow_knight_(sd1)

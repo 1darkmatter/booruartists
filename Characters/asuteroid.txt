@@ -1,0 +1,6 @@
+cornea_(asuteroid)
+iris_(asuteroid)
+iz_(asuteroid)
+lekeu_(asuteroid)
+rethina_(asuteroid)
+sclera_(asuteroid)

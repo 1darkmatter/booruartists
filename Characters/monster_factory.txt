@@ -1,0 +1,5 @@
+berudoru_(monster_factory)
+fubuki_(monster_factory)
+jinii_(monster_factory)
+koutasu_(monster_factory)
+resuka_(monster_factory)

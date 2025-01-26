@@ -1,0 +1,5 @@
+bishop_(clock_zero)
+hourousha_(clock_zero)
+jouhouya_(clock_zero)
+rook_(clock_zero)
+tetsugakusha_(clock_zero)

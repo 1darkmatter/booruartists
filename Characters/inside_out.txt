@@ -1,0 +1,6 @@
+anger_(inside_out)
+disgust_(inside_out)
+fear_(inside_out)
+joy_(inside_out)
+riley_(inside_out)
+sadness_(inside_out)

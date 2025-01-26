@@ -1,0 +1,3 @@
+arena_clerk_(monster_hunter_3_ultimate)
+guildmaster_(monster_hunter_3_ultimate)
+quest_receptionist_(monster_hunter_3_ultimate)

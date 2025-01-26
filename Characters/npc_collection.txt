@@ -1,0 +1,2 @@
+alto_(npc_collection)
+richelle_(npc_collection)

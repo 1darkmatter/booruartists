@@ -1,0 +1,7 @@
+batterimon_(appmon)
+cardmon_(appmon)
+fakemon_(appmon)
+gaiamon_(appmon)
+hackmon_(appmon)
+navimon_(appmon)
+pokomon_(appmon)

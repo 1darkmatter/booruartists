@@ -1,0 +1,5 @@
+penguin_keeper_(zookeepers)
+polar_bear_keeper_(zookeepers)
+seal_keeper_(zookeepers)
+survey_girl_(zookeepers)
+urban_area_zookeeper_(zookeepers)

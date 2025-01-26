@@ -1,0 +1,4 @@
+dib_(invader_zim)
+gir_(invader_zim)
+tak_(invader_zim)
+zim_(invader_zim)

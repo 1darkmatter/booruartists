@@ -1,0 +1,8 @@
+alpha_(animindustry)
+crawler_(animindustry)
+mono_(animindustry)
+oct_(animindustry)
+oxynoe_(animindustry)
+quad_(animindustry)
+sei_(animindustry)
+zenith_(animindustry)

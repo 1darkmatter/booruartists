@@ -1,0 +1,3 @@
+beauty_(pokemon_masters)
+female_trainer_(pokemon_masters)
+male_trainer_(pokemon_masters)

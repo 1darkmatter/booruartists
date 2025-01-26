@@ -1,0 +1,8 @@
+bosco_(deep_rock_galactic)
+doretta_(deep_rock_galactic)
+driller_(deep_rock_galactic)
+engineer_(deep_rock_galactic)
+gunner_(deep_rock_galactic)
+lloyd_(deep_rock_galactic)
+mule_(deep_rock_galactic)
+scout_(deep_rock_galactic)

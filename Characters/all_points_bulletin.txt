@@ -1,0 +1,3 @@
+charlotte_(all_points_bulletin)
+gossamer_(all_points_bulletin)
+zombie_(all_points_bulletin)

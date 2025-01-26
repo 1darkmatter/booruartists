@@ -1,0 +1,5 @@
+bril_(vog)
+calo_(vog)
+divo_(vog)
+ele_(vog)
+gio_(vog)

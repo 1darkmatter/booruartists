@@ -1,0 +1,2 @@
+cure_black_(phoenix_form)
+cure_white_(phoenix_form)

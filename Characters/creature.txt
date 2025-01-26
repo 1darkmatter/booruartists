@@ -1,0 +1,4 @@
+jiji_(creature)
+metroid_(creature)
+metroid_prime_(creature)
+shui_hu_(creature)

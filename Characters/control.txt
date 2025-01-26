@@ -1,0 +1,6 @@
+aurore_(control)
+bell_(control)
+georges_(control)
+masakaki_(control)
+mashu_(control)
+q_(control)

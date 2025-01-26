@@ -1,0 +1,2 @@
+player_(digimon_world)
+protagonist_(digimon_world)

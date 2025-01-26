@@ -1,0 +1,8 @@
+castform_(normal)
+deoxys_(normal)
+eternatus_(normal)
+furfrou_(normal)
+magearna_(normal)
+necrozma_(normal)
+rotom_(normal)
+terapagos_(normal)

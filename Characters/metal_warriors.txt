@@ -1,0 +1,6 @@
+ballistic_(metal_warriors)
+drache_(metal_warriors)
+havoc_(metal_warriors)
+nitro_(metal_warriors)
+prometheus_(metal_warriors)
+spider_(metal_warriors)

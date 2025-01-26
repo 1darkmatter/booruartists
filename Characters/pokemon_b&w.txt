@@ -1,0 +1,4 @@
+female_protagonist_(pokemon_b&w)
+male_protagonist_(pokemon_b&w)
+n_(pokemon_b&w)
+rival_(pokemon_b&w)

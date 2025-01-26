@@ -1,0 +1,4 @@
+amazon_(diablo_2)
+barbarian_(diablo_2)
+necromancer_(diablo_2)
+sorceress_(diablo_2)

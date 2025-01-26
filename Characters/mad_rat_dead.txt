@@ -1,0 +1,5 @@
+black_fear_(mad_rat_dead)
+heart_(mad_rat_dead)
+mad_rat_(mad_rat_dead)
+mob_rat_(mad_rat_dead)
+rat_god_(mad_rat_dead)

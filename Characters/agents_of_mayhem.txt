@@ -1,0 +1,8 @@
+daisy_(agents_of_mayhem)
+gremlin_(agents_of_mayhem)
+hardtack_(agents_of_mayhem)
+hollywood_(agents_of_mayhem)
+kingpin_(agents_of_mayhem)
+oni_(agents_of_mayhem)
+rama_(agents_of_mayhem)
+yeti_(agents_of_mayhem)

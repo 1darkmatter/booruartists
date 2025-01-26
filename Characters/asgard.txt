@@ -1,0 +1,4 @@
+knight_(asgard)
+magician_(asgard)
+priest_(asgard)
+warrior_(asgard)

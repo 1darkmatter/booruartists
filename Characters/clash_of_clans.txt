@@ -1,0 +1,7 @@
+archer_(clash_of_clans)
+archer_queen_(clash_of_clans)
+electro_titan_(clash_of_clans)
+headhunter_(clash_of_clans)
+healer_(clash_of_clans)
+valkyrie_(clash_of_clans)
+witch_(clash_of_clans)

@@ -1,0 +1,5 @@
+b_cell_(hataraku_saibou_lady)
+helper_t_(hataraku_saibou_lady)
+killer_t_(hataraku_saibou_lady)
+macrophage_(hataraku_saibou_lady)
+white_blood_cell_(hataraku_saibou_lady)

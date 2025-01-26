@@ -1,0 +1,7 @@
+alma_(ex-arm)
+kamaishi_(ex-arm)
+kimura_(ex-arm)
+kondo_(ex-arm)
+natsume_akira_(ex-arm)
+ogre_(ex-arm)
+yggdrasil_(ex-arm)

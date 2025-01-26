@@ -1,0 +1,4 @@
+esper_(saga_2)
+goddess_(saga_2)
+human_(saga_2)
+teacher_(saga_2)

@@ -1,0 +1,6 @@
+crystalman_(ftl)
+engi_(ftl)
+lanius_(ftl)
+mantis_(ftl)
+rockman_(ftl)
+slug_(ftl)

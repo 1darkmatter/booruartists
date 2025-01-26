@@ -1,0 +1,8 @@
+friday_(hayashi_custom)
+monday_(hayashi_custom)
+sachiko_(hayashi_custom)
+saturday_(hayashi_custom)
+sunday_(hayashi_custom)
+thursday_(hayashi_custom)
+tuesday_(hayashi_custom)
+wednesday_(hayashi_custom)

@@ -1,0 +1,8 @@
+comic_(project_wingman)
+crimson_1_(project_wingman)
+diplomat_(project_wingman)
+eminent_domain_(project_wingman)
+galaxy_(project_wingman)
+kaiser_(project_wingman)
+monarch_(project_wingman)
+prez_(project_wingman)

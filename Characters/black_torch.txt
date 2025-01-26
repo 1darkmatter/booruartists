@@ -1,0 +1,5 @@
+blackbody_(black_torch)
+fallout_(black_torch)
+jewel_(black_torch)
+jiro_azuma_(black_torch)
+tiger_(black_torch)

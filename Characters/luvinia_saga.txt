@@ -1,0 +1,3 @@
+fighter_(luvinia_saga)
+magician_(luvinia_saga)
+rogue_(luvinia_saga)

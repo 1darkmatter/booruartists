@@ -1,0 +1,8 @@
+blue_knight_(castle_crashers)
+cyclops_(castle_crashers)
+green_knight_(castle_crashers)
+orange_knight_(castle_crashers)
+pink_knight_(castle_crashers)
+red_knight_(castle_crashers)
+skeleton_(castle_crashers)
+veterinarian_(castle_crashers)

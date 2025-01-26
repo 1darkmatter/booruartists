@@ -1,0 +1,4 @@
+female_protagonist_(pokemon_bw2)
+male_protagonist_(pokemon_bw2)
+mother_(pokemon_bw2)
+rival_(pokemon_bw2)

@@ -1,0 +1,6 @@
+kitton_(fortune_quest)
+knoll_(fortune_quest)
+pastel_(fortune_quest)
+rumy_(fortune_quest)
+shiro_(fortune_quest)
+trapp_(fortune_quest)

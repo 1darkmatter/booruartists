@@ -1,0 +1,3 @@
+devil_(trigger_treat)
+pumpkin_(trigger_treat)
+skeleton_(trigger_treat)

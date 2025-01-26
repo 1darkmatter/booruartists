@@ -1,0 +1,7 @@
+animal_(muppets)
+beaker_(muppets)
+camilla_(muppets)
+dr_bunsen_(muppets)
+gonzo_(muppets)
+janice_(muppets)
+scooter_(muppets)

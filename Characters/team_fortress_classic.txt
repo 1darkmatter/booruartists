@@ -1,0 +1,4 @@
+pyro_(team_fortress_classic)
+spy_(team_fortress_classic)
+the_pyro_(team_fortress_classic)
+the_spy_(team_fortress_classic)

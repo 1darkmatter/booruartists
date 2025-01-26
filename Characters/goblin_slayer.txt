@@ -1,0 +1,8 @@
+blood_princess_(goblin_slayer)
+capital_inspector_(goblin_slayer)
+dwarf_(goblin_slayer)
+female_knight_(goblin_slayer)
+guild_master_(goblin_slayer)
+hero_(goblin_slayer)
+lizard_priest_(goblin_slayer)
+lizardman_(goblin_slayer)

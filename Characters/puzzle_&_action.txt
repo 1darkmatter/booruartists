@@ -1,0 +1,2 @@
+assistant_(puzzle_&_action)
+detective_(puzzle_&_action)

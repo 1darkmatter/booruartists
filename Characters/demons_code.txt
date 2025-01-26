@@ -1,0 +1,8 @@
+fighter_(demons_code)
+knight_(demons_code)
+magician_(demons_code)
+priest_(demons_code)
+rifuran_(demons_code)
+soldier_(demons_code)
+vivian_(demons_code)
+wizard_(demons_code)

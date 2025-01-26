@@ -1,0 +1,4 @@
+cure_fortune_(innocent_form)
+cure_honey_(innocent_form)
+cure_lovely_(innocent_form)
+cure_princess_(innocent_form)

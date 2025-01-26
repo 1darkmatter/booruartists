@@ -1,0 +1,3 @@
+circle_(shape_island)
+square_(shape_island)
+triangle_(shape_island)
